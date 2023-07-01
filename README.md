@@ -1,5 +1,14 @@
-# science-technology-investment-links
-Science, technology and investment links. Content in English and Russian.
+# Science, Technology and Finance Links
+
+Science, technology and finance links. Content in English and Russian. If you are in Russia, use VPN to open some sites.
+
+# Table of Contents
+
+[Science](#science)
+
+[Technology](#technology)
+
+[Finance](#finance)
 
 # Science
 
@@ -19,7 +28,7 @@ https://learnprompting.org/ – путеводитель по общению с 
 
 https://www.jailbreakchat.com/ – коллекция промптов к ChatGPT
 
-# Investment
+# Finance
 
 ## ETF/БПИФ/индексы/классы активов/портфели
 
