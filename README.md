@@ -1,16 +1,18 @@
 # Science, Technology and Finance Links
 
-Science, technology and finance links. Content in English and Russian. If you are in Russia, use VPN to open some sites.
+Science, technology and finance links. Sites in English and Russian. Some sites may be blocked in your country, so use VPN.
 
 # Table of Contents
 
-[Science](#science)
+[Science links](#science-links)
 
-[Technology](#technology)
+[Technology links](#technology-links)
 
-[Finance](#finance)
+[Finance links](#finance-links)
 
-# Science
+# Science links
+
+## Статьи/научные публикации
 
 https://sci-hub.se/ | https://sci-hub.st/ | https://sci-hub.ru/ — Sci-Hub, интернет-ресурс, предоставляющий бесплатный доступ к десяткам миллионов научных статей и аналогичных публикаций
 
@@ -20,7 +22,7 @@ http://www.pubmed.gov/ — PubMed, англоязычная текстовая �
 
 https://www.hubmed.org/  — альтернативный интерфейс доступа к PubMed
 
-# Technology
+# Technology links
 
 ## ChatGPT/промпты
 
@@ -34,11 +36,9 @@ https://roadmap.sh/ – дорожная карта для изучения те
 
 https://www.comprehensive.io/ — трекер зарплат в технических компаниях США
 
-https://overemployed.com/ — работа на нескольких работах для достижения финансовой независимости
-
 https://layoffs.fyi/ — трекер увольнений в стартапах и технических компаниях США
 
-# Finance
+# Finance links
 
 ## ETF/БПИФ/индексы/классы активов/портфели
 
@@ -122,9 +122,11 @@ https://www.centralbank.ie/ — Центральный Банк Ирландии
 
 ## Налоги
 
-https://docs.google.com/document/d/1KS51Lwv0uEbYW4j5fRG9_MCI9cRb1riapfHMWGNWHqM — валютное законодательство. Как правильно отчитываться в налоговой в России
+https://docs.google.com/document/d/1KS51Lwv0uEbYW4j5fRG9_MCI9cRb1riapfHMWGNWHqM — валютное законодательство России. Как правильно отчитываться в налоговой
 
 ## Работа/обучение
+
+https://overemployed.com/ — работа на нескольких работах для достижения финансовой независимости
 
 https://www.cfainstitute.org/ — CFA Institute, некоммерческая организация, предлагающая финансовое обучение и сертификацию
 
