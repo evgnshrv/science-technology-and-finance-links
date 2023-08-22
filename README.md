@@ -126,6 +126,8 @@ https://docs.google.com/document/d/1KS51Lwv0uEbYW4j5fRG9_MCI9cRb1riapfHMWGNWHqM 
 
 ## Работа/обучение
 
+https://www.core-econ.org/ — CORE (Curriculum Open-access Resources in Economics), учебники и другие ресурсы для изучения экономики
+
 https://overemployed.com/ — работа на нескольких работах для достижения финансовой независимости
 
 https://www.cfainstitute.org/ — CFA Institute, некоммерческая организация, предлагающая финансовое обучение и сертификацию
