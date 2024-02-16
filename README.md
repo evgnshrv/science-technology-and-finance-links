@@ -108,6 +108,8 @@ https://tradingeconomics.com/indicators — экономическая стат�
 
 https://www.interactivebrokers.com/ — Interactive Brokers, лучший брокер в США из тех, кто открывают счета резидентами России
 
+https://www.ibkrguides.com/ — официальная документация Interactive Brokers: руководства пользователя, платформы, другие ресурсы 
+
 https://ndcdyn.interactivebrokers.com/sso/Login;redirect=off | https://ndcdyn.interactivebrokers.com/sso/Login?RL=1&ip2loc=off | https://www.interactivebrokers.com.hk/sso/Login;redirect=off | https://www.interactivebrokers.com.hk/sso/Login?RL=1&ip2loc=off — вход в Interactive Brokers из России без использования VPN. Если зайти на основной сайт Interactive Brokers, то будет редирект на сайт https://interactivebrokers.co.uk, который может блокироваться в России некоторыми провайдерами  
 
 https://int.lime.co/ — Lime International, кипрский брокер, работающий с резидентами России
